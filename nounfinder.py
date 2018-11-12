@@ -1,3 +1,4 @@
+#first define sentence = "whatever you want to process" then run nounfinder()
 def nounfinder():
 	import nltk
 	tokens = nltk.word_tokenize(sentence)
